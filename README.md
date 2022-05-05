@@ -15,12 +15,6 @@ Cancel changes
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravikant-paudel&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <hr>
-<div align="right">
-
-    ![visitor](https://visitor-badge.glitch.me/badge?page_id=ravikant-paudel) ![profile count](https://komarev.com/ghpvc/?username=ravikant-paudel&color=red) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
-
-
-
 
 <!-- 
 ![Ravikant's github stats](https://github-readme-stats.vercel.app/api?username=ravikant-paudel&hide=["issues"]&show_icons=true)
