@@ -1,0 +1,340 @@
+{
+  "last_updated": "2026-02-14T16:38:21.952226+00:00",
+  "source": "Nepal Rastra Bank (nrb.org.np)",
+  "date": "2026-02-14",
+  "published_on": "2026-02-14 00:00:37",
+  "currencies": {
+    "INR": {
+      "name": "Indian Rupee",
+      "iso3": "INR",
+      "unit": 100,
+      "buy": 160.0,
+      "sell": 160.15,
+      "change": 0.0,
+      "change_percent": 0.0,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 160.0, "sell": 160.15},
+        {"date": "2026-02-13", "buy": 160.0, "sell": 160.15},
+        {"date": "2026-01-16", "buy": 160.0, "sell": 160.15}
+      ]
+    },
+    "USD": {
+      "name": "U.S. Dollar",
+      "iso3": "USD",
+      "unit": 1,
+      "buy": 144.72,
+      "sell": 145.32,
+      "change": 0.07,
+      "change_percent": 0.05,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 144.72, "sell": 145.32},
+        {"date": "2026-02-13", "buy": 144.65, "sell": 145.25},
+        {"date": "2026-01-16", "buy": 144.18, "sell": 144.78}
+      ]
+    },
+    "EUR": {
+      "name": "European Euro",
+      "iso3": "EUR",
+      "unit": 1,
+      "buy": 171.61,
+      "sell": 172.32,
+      "change": -0.23,
+      "change_percent": -0.13,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 171.61, "sell": 172.32},
+        {"date": "2026-02-13", "buy": 171.84, "sell": 172.55},
+        {"date": "2026-02-12", "buy": 172.55, "sell": 173.27},
+        {"date": "2026-01-16", "buy": 167.74, "sell": 168.44}
+      ]
+    },
+    "GBP": {
+      "name": "UK Pound Sterling",
+      "iso3": "GBP",
+      "unit": 1,
+      "buy": 196.96,
+      "sell": 197.77,
+      "change": -0.38,
+      "change_percent": -0.19,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 196.96, "sell": 197.77},
+        {"date": "2026-02-13", "buy": 197.34, "sell": 198.16},
+        {"date": "2026-02-12", "buy": 198.45, "sell": 199.27},
+        {"date": "2026-01-16", "buy": 193.53, "sell": 194.33}
+      ]
+    },
+    "CHF": {
+      "name": "Swiss Franc",
+      "iso3": "CHF",
+      "unit": 1,
+      "buy": 188.03,
+      "sell": 188.81,
+      "change": -0.35,
+      "change_percent": -0.19,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 188.03, "sell": 188.81},
+        {"date": "2026-02-13", "buy": 188.38, "sell": 189.16},
+        {"date": "2026-02-12", "buy": 189.09, "sell": 189.87},
+        {"date": "2026-02-11", "buy": 188.71, "sell": 189.5},
+        {"date": "2026-02-10", "buy": 187.79, "sell": 188.57}
+      ]
+    },
+    "AUD": {
+      "name": "Australian Dollar",
+      "iso3": "AUD",
+      "unit": 1,
+      "buy": 102.06,
+      "sell": 102.48,
+      "change": -1.02,
+      "change_percent": -0.99,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 102.06, "sell": 102.48},
+        {"date": "2026-02-13", "buy": 103.08, "sell": 103.51},
+        {"date": "2026-01-16", "buy": 96.57, "sell": 96.97}
+      ]
+    },
+    "CAD": {
+      "name": "Canadian Dollar",
+      "iso3": "CAD",
+      "unit": 1,
+      "buy": 106.26,
+      "sell": 106.7,
+      "change": -0.39,
+      "change_percent": -0.37,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 106.26, "sell": 106.7},
+        {"date": "2026-02-13", "buy": 106.65, "sell": 107.09},
+        {"date": "2026-02-12", "buy": 107.19, "sell": 107.63},
+        {"date": "2026-02-11", "buy": 106.62, "sell": 107.06},
+        {"date": "2026-02-10", "buy": 106.2, "sell": 106.64}
+      ]
+    },
+    "SGD": {
+      "name": "Singapore Dollar",
+      "iso3": "SGD",
+      "unit": 1,
+      "buy": 114.49,
+      "sell": 114.96,
+      "change": -0.22,
+      "change_percent": -0.19,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 114.49, "sell": 114.96},
+        {"date": "2026-02-13", "buy": 114.71, "sell": 115.19},
+        {"date": "2026-02-12", "buy": 114.78, "sell": 115.26}
+      ]
+    },
+    "JPY": {
+      "name": "Japanese Yen",
+      "iso3": "JPY",
+      "unit": 10,
+      "buy": 9.43,
+      "sell": 9.47,
+      "change": -0.01,
+      "change_percent": -0.11,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 9.43, "sell": 9.47},
+        {"date": "2026-02-13", "buy": 9.44, "sell": 9.48},
+        {"date": "2026-01-16", "buy": 9.1, "sell": 9.13}
+      ]
+    },
+    "CNY": {
+      "name": "Chinese Yuan",
+      "iso3": "CNY",
+      "unit": 1,
+      "buy": 20.95,
+      "sell": 21.03,
+      "change": -0.01,
+      "change_percent": -0.05,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 20.95, "sell": 21.03},
+        {"date": "2026-02-13", "buy": 20.96, "sell": 21.05},
+        {"date": "2026-02-12", "buy": 20.96, "sell": 21.05},
+        {"date": "2026-02-11", "buy": 20.93, "sell": 21.01},
+        {"date": "2026-02-10", "buy": 20.93, "sell": 21.02}
+      ]
+    },
+    "SAR": {
+      "name": "Saudi Arabian Riyal",
+      "iso3": "SAR",
+      "unit": 1,
+      "buy": 38.59,
+      "sell": 38.75,
+      "change": 0.02,
+      "change_percent": 0.05,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 38.59, "sell": 38.75},
+        {"date": "2026-02-13", "buy": 38.57, "sell": 38.73},
+        {"date": "2026-02-12", "buy": 38.62, "sell": 38.78},
+        {"date": "2026-02-11", "buy": 38.56, "sell": 38.72},
+        {"date": "2026-02-10", "buy": 38.64, "sell": 38.8}
+      ]
+    },
+    "QAR": {
+      "name": "Qatari Riyal",
+      "iso3": "QAR",
+      "unit": 1,
+      "buy": 39.71,
+      "sell": 39.87,
+      "change": 0.02,
+      "change_percent": 0.05,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 39.71, "sell": 39.87},
+        {"date": "2026-02-13", "buy": 39.69, "sell": 39.85}
+      ]
+    },
+    "THB": {
+      "name": "Thai Baht",
+      "iso3": "THB",
+      "unit": 1,
+      "buy": 4.65,
+      "sell": 4.67,
+      "change": -0.02,
+      "change_percent": -0.43,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 4.65, "sell": 4.67},
+        {"date": "2026-02-13", "buy": 4.67, "sell": 4.69}
+      ]
+    },
+    "AED": {
+      "name": "UAE Dirham",
+      "iso3": "AED",
+      "unit": 1,
+      "buy": 39.4,
+      "sell": 39.56,
+      "change": 0.02,
+      "change_percent": 0.05,
+      "popular": true,
+      "history": [
+        {"date": "2026-02-14", "buy": 39.4, "sell": 39.56},
+        {"date": "2026-02-13", "buy": 39.38, "sell": 39.54},
+        {"date": "2026-02-12", "buy": 39.43, "sell": 39.59},
+        {"date": "2026-02-11", "buy": 39.38, "sell": 39.54},
+        {"date": "2026-02-10", "buy": 39.45, "sell": 39.62}
+      ]
+    },
+    "MYR": {
+      "name": "Malaysian Ringgit",
+      "iso3": "MYR",
+      "unit": 1,
+      "buy": 37.04,
+      "sell": 37.19,
+      "change": -0.03,
+      "change_percent": -0.08,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 37.04, "sell": 37.19},
+        {"date": "2026-02-13", "buy": 37.07, "sell": 37.22}
+      ]
+    },
+    "KRW": {
+      "name": "South Korean Won",
+      "iso3": "KRW",
+      "unit": 100,
+      "buy": 10.0,
+      "sell": 10.04,
+      "change": -0.07,
+      "change_percent": -0.7,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 10.0, "sell": 10.04},
+        {"date": "2026-02-13", "buy": 10.07, "sell": 10.11}
+      ]
+    },
+    "SEK": {
+      "name": "Swedish Kroner",
+      "iso3": "SEK",
+      "unit": 1,
+      "buy": 16.16,
+      "sell": 16.23,
+      "change": -0.13,
+      "change_percent": -0.8,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 16.16, "sell": 16.23},
+        {"date": "2026-02-13", "buy": 16.29, "sell": 16.36}
+      ]
+    },
+    "DKK": {
+      "name": "Danish Kroner",
+      "iso3": "DKK",
+      "unit": 1,
+      "buy": 22.97,
+      "sell": 23.07,
+      "change": -0.03,
+      "change_percent": -0.13,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 22.97, "sell": 23.07},
+        {"date": "2026-02-13", "buy": 23.0, "sell": 23.1}
+      ]
+    },
+    "HKD": {
+      "name": "Hong Kong Dollar",
+      "iso3": "HKD",
+      "unit": 1,
+      "buy": 18.51,
+      "sell": 18.59,
+      "change": 0.0,
+      "change_percent": 0.0,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 18.51, "sell": 18.59},
+        {"date": "2026-02-13", "buy": 18.51, "sell": 18.58}
+      ]
+    },
+    "KWD": {
+      "name": "Kuwaity Dinar",
+      "iso3": "KWD",
+      "unit": 1,
+      "buy": 474.26,
+      "sell": 476.22,
+      "change": 0.23,
+      "change_percent": 0.05,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 474.26, "sell": 476.22},
+        {"date": "2026-02-13", "buy": 474.03, "sell": 476.0}
+      ]
+    },
+    "BHD": {
+      "name": "Bahrain Dinar",
+      "iso3": "BHD",
+      "unit": 1,
+      "buy": 383.85,
+      "sell": 385.44,
+      "change": 0.18,
+      "change_percent": 0.05,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 383.85, "sell": 385.44},
+        {"date": "2026-02-13", "buy": 383.67, "sell": 385.26}
+      ]
+    },
+    "OMR": {
+      "name": "Omani Rial",
+      "iso3": "OMR",
+      "unit": 1,
+      "buy": 375.92,
+      "sell": 377.48,
+      "change": 0.18,
+      "change_percent": 0.05,
+      "popular": false,
+      "history": [
+        {"date": "2026-02-14", "buy": 375.92, "sell": 377.48},
+        {"date": "2026-02-13", "buy": 375.74, "sell": 377.3}
+      ]
+    }
+  }
+}

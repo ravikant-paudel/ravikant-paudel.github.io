@@ -1,0 +1,218 @@
+{
+  "last_updated": "2026-02-13T08:00:00Z",
+  "version": "2.0",
+  "source": "Nepal Oil Corporation",
+  "petrol": {
+    "fuel_type": "Petrol",
+    "zones": {
+      "zone1": {
+        "name": "Zone 1 - Terai",
+        "locations": ["Birgunj", "Biratnagar", "Bhairahawa", "Nepalgunj"],
+        "current_price": 179.0,
+        "unit": "NPR/L",
+        "change": 2.0,
+        "change_percent": 1.13,
+        "last_updated": "2026-02-13",
+        "previous_price": 177.0,
+        "history": [
+          {"price": 179.0, "date": "2026-02-13"},
+          {"price": 177.0, "date": "2026-02-06"},
+          {"price": 177.0, "date": "2026-01-30"},
+          {"price": 175.0, "date": "2026-01-23"},
+          {"price": 176.0, "date": "2026-01-16"},
+          {"price": 174.0, "date": "2026-01-09"},
+          {"price": 172.0, "date": "2026-01-02"},
+          {"price": 173.0, "date": "2025-12-26"},
+          {"price": 170.0, "date": "2025-12-19"},
+          {"price": 168.0, "date": "2025-12-12"}
+        ]
+      },
+      "zone2": {
+        "name": "Zone 2 - Hilly Region",
+        "locations": ["Pokhara", "Butwal", "Hetauda", "Dharan"],
+        "current_price": 182.0,
+        "unit": "NPR/L",
+        "change": 2.0,
+        "change_percent": 1.11,
+        "last_updated": "2026-02-13",
+        "previous_price": 180.0,
+        "history": [
+          {"price": 182.0, "date": "2026-02-13"},
+          {"price": 180.0, "date": "2026-02-06"},
+          {"price": 180.0, "date": "2026-01-30"},
+          {"price": 178.0, "date": "2026-01-23"},
+          {"price": 179.0, "date": "2026-01-16"},
+          {"price": 177.0, "date": "2026-01-09"},
+          {"price": 175.0, "date": "2026-01-02"},
+          {"price": 176.0, "date": "2025-12-26"},
+          {"price": 173.0, "date": "2025-12-19"},
+          {"price": 171.0, "date": "2025-12-12"}
+        ]
+      },
+      "zone3": {
+        "name": "Zone 3 - Kathmandu Valley",
+        "locations": ["Kathmandu", "Lalitpur", "Bhaktapur"],
+        "current_price": 185.0,
+        "unit": "NPR/L",
+        "change": 2.0,
+        "change_percent": 1.09,
+        "last_updated": "2026-02-13",
+        "previous_price": 183.0,
+        "history": [
+          {"price": 185.0, "date": "2026-02-13"},
+          {"price": 183.0, "date": "2026-02-06"},
+          {"price": 183.0, "date": "2026-01-30"},
+          {"price": 181.0, "date": "2026-01-23"},
+          {"price": 182.0, "date": "2026-01-16"},
+          {"price": 180.0, "date": "2026-01-09"},
+          {"price": 178.0, "date": "2026-01-02"},
+          {"price": 179.0, "date": "2025-12-26"},
+          {"price": 176.0, "date": "2025-12-19"},
+          {"price": 174.0, "date": "2025-12-12"}
+        ]
+      }
+    }
+  },
+  "diesel": {
+    "fuel_type": "Diesel",
+    "zones": {
+      "zone1": {
+        "name": "Zone 1 - Terai",
+        "locations": ["Birgunj", "Biratnagar", "Bhairahawa", "Nepalgunj"],
+        "current_price": 162.0,
+        "unit": "NPR/L",
+        "change": 0.0,
+        "change_percent": 0.0,
+        "last_updated": "2026-02-13",
+        "previous_price": 162.0,
+        "history": [
+          {"price": 162.0, "date": "2026-02-13"},
+          {"price": 162.0, "date": "2026-02-06"},
+          {"price": 160.0, "date": "2026-01-30"},
+          {"price": 158.0, "date": "2026-01-23"},
+          {"price": 160.0, "date": "2026-01-16"},
+          {"price": 157.0, "date": "2026-01-09"},
+          {"price": 155.0, "date": "2026-01-02"},
+          {"price": 156.0, "date": "2025-12-26"},
+          {"price": 153.0, "date": "2025-12-19"},
+          {"price": 151.0, "date": "2025-12-12"}
+        ]
+      },
+      "zone2": {
+        "name": "Zone 2 - Hilly Region",
+        "locations": ["Pokhara", "Butwal", "Hetauda", "Dharan"],
+        "current_price": 165.0,
+        "unit": "NPR/L",
+        "change": 0.0,
+        "change_percent": 0.0,
+        "last_updated": "2026-02-13",
+        "previous_price": 165.0,
+        "history": [
+          {"price": 165.0, "date": "2026-02-13"},
+          {"price": 165.0, "date": "2026-02-06"},
+          {"price": 163.0, "date": "2026-01-30"},
+          {"price": 161.0, "date": "2026-01-23"},
+          {"price": 163.0, "date": "2026-01-16"},
+          {"price": 160.0, "date": "2026-01-09"},
+          {"price": 158.0, "date": "2026-01-02"},
+          {"price": 159.0, "date": "2025-12-26"},
+          {"price": 156.0, "date": "2025-12-19"},
+          {"price": 154.0, "date": "2025-12-12"}
+        ]
+      },
+      "zone3": {
+        "name": "Zone 3 - Kathmandu Valley",
+        "locations": ["Kathmandu", "Lalitpur", "Bhaktapur"],
+        "current_price": 168.0,
+        "unit": "NPR/L",
+        "change": 0.0,
+        "change_percent": 0.0,
+        "last_updated": "2026-02-13",
+        "previous_price": 168.0,
+        "history": [
+          {"price": 168.0, "date": "2026-02-13"},
+          {"price": 168.0, "date": "2026-02-06"},
+          {"price": 166.0, "date": "2026-01-30"},
+          {"price": 164.0, "date": "2026-01-23"},
+          {"price": 166.0, "date": "2026-01-16"},
+          {"price": 163.0, "date": "2026-01-09"},
+          {"price": 161.0, "date": "2026-01-02"},
+          {"price": 162.0, "date": "2025-12-26"},
+          {"price": 159.0, "date": "2025-12-19"},
+          {"price": 157.0, "date": "2025-12-12"}
+        ]
+      }
+    }
+  },
+  "lpg": {
+    "fuel_type": "LPG",
+    "zones": {
+      "zone1": {
+        "name": "Zone 1 - Terai",
+        "locations": ["Birgunj", "Biratnagar", "Bhairahawa", "Nepalgunj"],
+        "current_price": 1825.0,
+        "unit": "NPR/14.2kg",
+        "change": 0.0,
+        "change_percent": 0.0,
+        "last_updated": "2026-02-13",
+        "previous_price": 1825.0,
+        "history": [
+          {"price": 1825.0, "date": "2026-02-13"},
+          {"price": 1825.0, "date": "2026-02-06"},
+          {"price": 1800.0, "date": "2026-01-30"},
+          {"price": 1800.0, "date": "2026-01-23"},
+          {"price": 1775.0, "date": "2026-01-16"},
+          {"price": 1775.0, "date": "2026-01-09"},
+          {"price": 1750.0, "date": "2026-01-02"},
+          {"price": 1750.0, "date": "2025-12-26"},
+          {"price": 1725.0, "date": "2025-12-19"},
+          {"price": 1700.0, "date": "2025-12-12"}
+        ]
+      },
+      "zone2": {
+        "name": "Zone 2 - Hilly Region",
+        "locations": ["Pokhara", "Butwal", "Hetauda", "Dharan"],
+        "current_price": 1875.0,
+        "unit": "NPR/14.2kg",
+        "change": 0.0,
+        "change_percent": 0.0,
+        "last_updated": "2026-02-13",
+        "previous_price": 1875.0,
+        "history": [
+          {"price": 1875.0, "date": "2026-02-13"},
+          {"price": 1875.0, "date": "2026-02-06"},
+          {"price": 1850.0, "date": "2026-01-30"},
+          {"price": 1850.0, "date": "2026-01-23"},
+          {"price": 1825.0, "date": "2026-01-16"},
+          {"price": 1825.0, "date": "2026-01-09"},
+          {"price": 1800.0, "date": "2026-01-02"},
+          {"price": 1800.0, "date": "2025-12-26"},
+          {"price": 1775.0, "date": "2025-12-19"},
+          {"price": 1750.0, "date": "2025-12-12"}
+        ]
+      },
+      "zone3": {
+        "name": "Zone 3 - Kathmandu Valley",
+        "locations": ["Kathmandu", "Lalitpur", "Bhaktapur"],
+        "current_price": 1925.0,
+        "unit": "NPR/14.2kg",
+        "change": 0.0,
+        "change_percent": 0.0,
+        "last_updated": "2026-02-13",
+        "previous_price": 1925.0,
+        "history": [
+          {"price": 1925.0, "date": "2026-02-13"},
+          {"price": 1925.0, "date": "2026-02-06"},
+          {"price": 1900.0, "date": "2026-01-30"},
+          {"price": 1900.0, "date": "2026-01-23"},
+          {"price": 1875.0, "date": "2026-01-16"},
+          {"price": 1875.0, "date": "2026-01-09"},
+          {"price": 1850.0, "date": "2026-01-02"},
+          {"price": 1850.0, "date": "2025-12-26"},
+          {"price": 1825.0, "date": "2025-12-19"},
+          {"price": 1800.0, "date": "2025-12-12"}
+        ]
+      }
+    }
+  }
+}
