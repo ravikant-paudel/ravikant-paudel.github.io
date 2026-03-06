@@ -2,68 +2,53 @@
 
 ## Overview
 
-A single-page resume/portfolio built on the Start Bootstrap Resume template, hosted via GitHub Pages.
+Modern single-page portfolio built with vanilla HTML/CSS/JS. Dark navy theme with teal accent (`#64ffda`), light/dark mode toggle, scroll animations, and scroll progress bar. No build tools or frameworks — fully self-contained in `index.html`.
 
 **Live site:** https://ravikant-paudel.github.io
 
 ## Current State
 
-- `index.html` is the only page actively used for the portfolio
-- Content in index.html still has placeholder/template text (fake experience, education, lorem ipsum descriptions)
-- Social media links (`Facebook`, `Twitter`, `LinkedIn`, `GitHub`) all point to `#`
-- Profile section has a generic bio paragraph
+The new design is live with:
+- Hero section with profile card, social links, and CTA buttons
+- Stats bar (9+ years, 50+ projects, 500K+ downloads, 4.8/5 rating)
+- Work Experience (YCO Solutions, Khalti, Ekbana, Uber Opus)
+- Featured Projects (NEPSE Uncle, Khalti, Hours and Pay, AlmostMe, Bigmart)
+- Technical Skills (Languages, Frameworks, Tools, Methodologies)
+- Education section
+- Contact section
 
 ## What Needs to Be Done
 
-### 1. Update index.html Content
+### 1. Assets
+- [x] Favicon added at root (`favicon.ico`) and link updated in index.html
+- [ ] Add CV PDF — `/ravikant_paudel_mobile_cv.pdf` linked from "Download CV" button but missing
 
-- [ ] Replace placeholder bio with a real personal summary
-- [ ] Update Experience section with actual work history
-- [ ] Update Education section with real education details
-- [ ] Update Skills section with actual tech stack
-- [ ] Update Interests section with real interests
-- [ ] Update Awards section (or remove if not applicable)
-- [ ] Fix social links — point Facebook, Twitter, LinkedIn, GitHub to real profiles
-- [ ] Update page `<title>` from "Resume - Start Bootstrap Theme" to actual name
+### 2. Content Updates
+- [ ] LinkedIn URL in profile card social link points to `https://linkedin.com/in/ravikant` — update to correct full URL `https://www.linkedin.com/in/ravikant-paudel-5b688b8b/`
+- [ ] Verify Play Store / App Store links are live and correct for all projects
+- [ ] Add Stack Overflow profile link to social links (currently only Email, GitHub, LinkedIn)
 
-### 2. About Section
-
-- [ ] Update address/phone/email in the subheading (currently shows Chandragiri, Kathmandu address and phone number publicly)
-- [ ] Consider removing phone number from public HTML for privacy
-
-### 3. SCSS / Styling
-
-- [ ] Customize colors in `scss/_variables.scss` if needed
-- [ ] Run `gulp` to recompile `css/resume.min.css` after any SCSS changes
+### 3. Mobile Navigation
+- [ ] Nav links on small screens overflow/wrap — consider a hamburger menu for mobile
 
 ### 4. Other Pages
-
-- `rv-haker-news/privacy-policy.html` — Privacy policy for the RV Hacker News iOS app (already exists, linked from App Store)
+- `rv-haker-news/privacy-policy.html` — Privacy policy for the RV Hacker News iOS app (live, email updated)
 
 ## Tech Stack
 
-- HTML5, Bootstrap 4
-- Font Awesome icons
-- SCSS → compiled via Gulp to `css/resume.min.css`
-- jQuery + jQuery Easing (smooth scroll)
+- Vanilla HTML5, CSS3 (CSS variables, Grid, Flexbox)
+- Font Awesome 6.4.0 (CDN)
+- Google Fonts: Manrope + JetBrains Mono
+- Vanilla JS (theme toggle, scroll progress, IntersectionObserver animations)
+- No build tools required
 
-## Project Structure
+## File Structure
 
 ```
-├── index.html                      # Main portfolio page
-├── css/resume.min.css              # Compiled styles (do not edit directly)
-├── scss/                           # Edit styles here, then run gulp
-├── js/resume.min.js                # Scroll behavior
-├── img/ravikant.jpg                # Profile photo
-├── vendor/                         # Bootstrap, Font Awesome, devicons, jQuery
-├── rv-haker-news/privacy-policy.html
-├── gulpfile.js                     # Build: sass compile + browser-sync
-└── package.json
-```
-
-## Local Development
-
-```bash
-npm install
-gulp
+├── index.html                          # Entire portfolio (self-contained)
+├── img/ravikant.jpg                    # Profile photo
+├── favicon.ico                         # Browser tab icon
+├── ravikant_paudel_mobile_cv.pdf       # MISSING — needs to be added
+├── rv-haker-news/privacy-policy.html   # RV HackerNews app privacy policy
+└── plan.md                             # This file
 ```
